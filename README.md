@@ -39,9 +39,9 @@ B.Tech Chemical Engineering student at **IIT Indore**, building full-stack/backe
 | Project | Description |
 |---|---|
 | **[RoleFit](https://github.com/Anaghatotade/Rolefit)** | Full-stack MERN app that parses resumes/JDs to generate a match score and interview prep plan via the Gemini API, with schema-validated AI output and JWT-secured auth. |
+| **[Regional Sales Analysis](https://github.com/Anaghatotade/regional-sales-analysis)** | End-to-end Python + Power BI analysis of a 64K-order sales dataset, surfacing regional/channel performance insights. |
 | **[CFD Analysis of Copper Automobile Radiator](https://github.com/Anaghatotade/Automobile-Radiator)** | ANSYS Fluent simulation of coolant flow & heat transfer in a radiator core (team project); generated the meshing and contributed to result analysis. |
 | **[Ethyl Acetate Process Simulation](https://github.com/Anaghatotade/ethyl-acetate-process-simulation)** | Aspen Plus simulation of the Fischer-esterification route for ethyl acetate, cross-validated with an in-house Python/NRTL model (team project). |
-| **[Regional Sales Analysis](https://github.com/Anaghatotade/regional-sales-analysis)** | End-to-end Python + Power BI analysis of a 64K-order sales dataset, surfacing regional/channel performance insights. |
 
 ---
 
