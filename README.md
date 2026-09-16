@@ -6,7 +6,6 @@ B.Tech Chemical Engineering student at **IIT Indore**, building full-stack/backe
 - Researching: phase separation & receptor clustering in biomolecular condensates (Gaurav Chauhan Lab, IIT Indore) — co-first-authored a paper and led a poster presented at **CompFlu 2025**, IISc Bengaluru
 - Also work with: Python, SQL, and Power BI for data analysis
 - Learning: Data Structures & Algorithms
-- Reach me: [LinkedIn](https://www.linkedin.com/in/anagha-totade/) · che230008008@iiti.ac.in
 
 ---
 
